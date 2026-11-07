@@ -1,0 +1,9 @@
+Hello everyone! Welcome to my Generative AI project.
+
+Today, I am learning how artificial intelligence can understand human language and generate meaningful responses. Generative AI can help us write content, answer questions, create images, and solve problems.
+
+I am also exploring Python, LangChain, and Google Gemini to build intelligent applications.
+
+Learning something new takes time and practice, but every small step brings us closer to our goals.
+
+Thank you for listening!
